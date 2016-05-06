@@ -1,5 +1,5 @@
 This is a test file
 
 This was added by the Clone
-This was Added by Master
+Another Master Line
 Another Clone Line
